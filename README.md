@@ -1,5 +1,6 @@
 # BIC21203 Web Development
-## Lab 4b: JSON and jQuery
+## LAB 4B: 
+CLIENT-SIDE SCRIPTING (JSON AND JQUERY) 
 
 ### Student Information
 - **Name:** IMAN NUR IZZAH BINTI MOHD RAFIZAN
